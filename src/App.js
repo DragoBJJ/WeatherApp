@@ -32,7 +32,6 @@ const App = () => {
 
   return (
     <Wrapper>
-      {console.log(weather)}
       <InputSearch
         type="text"
         placeholder="Enter the city"
